@@ -49,7 +49,7 @@ Basic Learning Theory and Evaluation
 * Bias-Variance Tradeoff
 * Overfitting and Regularization
 * Cross-Validation and Model Selection
-* Probably Approximately Correct (PAC) Learnin
+* Probably Approximately Correct (PAC) Learning
 
 ## Suggested Readings
 
